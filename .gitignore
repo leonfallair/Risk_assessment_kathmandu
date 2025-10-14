@@ -1,0 +1,7 @@
+# ignore all files
+*
+# allow these files
+!multihazard.ipynb
+!environment.yaml
+!.gitignore
+!README.md

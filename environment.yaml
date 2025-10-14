@@ -1,0 +1,15 @@
+name: Risk_analysis
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - geopandas
+  - pandas
+  - numpy
+  - rasterio
+  - matplotlib
+  - scipy
+  - shapely
+  - jupyter
+  - ipykernel
