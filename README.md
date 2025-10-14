@@ -25,7 +25,7 @@ After following the steps of installing the miniforge dsitribution
     ```
     [mamba or conda] activate Risk_analysis
     ```
-3. Open the Jupyter Notebook in VS Code or JupyterLaband select right kernel (tracking_env) and run all cells
+3. Open the Jupyter Notebook in VS Code or JupyterLaband select right kernel (Risk_analysis) and run all cells
 
 ## Result
 
