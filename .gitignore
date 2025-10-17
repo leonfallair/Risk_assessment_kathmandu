@@ -1,7 +1,12 @@
 # ignore all files
 *
+
+# allow folder images
+!images/
+
 # allow these files
 !multihazard.ipynb
 !environment.yaml
 !.gitignore
 !README.md
+!images/combined_risk_map.png
